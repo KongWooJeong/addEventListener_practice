@@ -1,0 +1,27 @@
+.box {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+li {
+    cursor: pointer;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
